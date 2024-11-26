@@ -1,7 +1,7 @@
 name = "PopGenCore"
 uuid = "45b36091-5ef7-4b08-b448-aaf24c763a14"
 authors = ["Pavel Dimens"]
-version = "0.7.1"
+version = "0.7.2"
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
